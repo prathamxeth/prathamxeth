@@ -1,24 +1,20 @@
 <div align="center">
 
   <br />
-  <p align="center">
-    <img src="https://palzee.fun/android-chrome-512x512.png" alt="Pratham" width="100" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.3), 0 0 40px rgba(99, 102, 241, 0.3);">
-  </p>
-
   <h1 align="center">
     <b>Prathmesh Upadhyay</b>
   </h1>
 
   <p align="center">
-    <b>Founder & CTO at Fin Rein Inc. • BS in Data Science @ IIT Madras</b>
+    <b>Systems & Full-Stack Engineer • Founder & CTO @ Fin Rein Inc. • BS in Data Science @ IIT Madras</b>
   </p>
 
   <p align="center">
-    <i>Building zero-latency, local-first native mobile experiences and graph-native intelligence systems.</i>
+    <i>Architecting graph-native AI systems, zero-latency native mobile applications, and foldable interface diagnostics.</i>
   </p>
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=6366F1&center=true&vcenter=true&width=550&lines=Android+%26+Full-Stack+Systems+Engineer;Founder+%26+CTO+%40+Fin+Rein+Inc.+(PalZee);Graph-Native+AI+Architect+%E2%80%A2+NexusIDE;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=6366F1&center=true&vcenter=true&width=550&lines=Android+%26+Full-Stack+Systems+Engineer;Founder+%26+CTO+%40+Fin+Rein+Inc.+(PalZee);Graph-Native+AI+Architect+%E2%80%A2+NexusIDE;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering" alt="Typing SVG" /></a>
+    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
@@ -32,38 +28,64 @@
 
 ---
 
-### 💡 Engineering Core
-- 📱 **Native Mobile Systems:** Zero-latency keyframe engines, CameraX, Media3 pipelines, and fluid Jetpack Compose UI.
-- ⚡ **Graph-Native Intelligence:** Replacing lexical grep and vector hallucinations with deterministic in-memory AST call-graphs powered by **FalkorDB** and **GraphBLAS**.
-- 🔒 **Local-First & Privacy:** Strict zero-algorithm feeds, state-latch keyframes, edge verification, and child safety compliance.
+### 💡 Core Engineering Domains
+
+- 🧠 **Graph-RAG & Agentic Intelligence:** Replacing lexical search and probabilistic embeddings with deterministic AST call-graphs, multi-hop blast radius traversals, and episodic memory via **FalkorDB** and **FastMCP**.
+- 📱 **Native Mobile & Foldable Architectures:** Developing high-frame-rate native applications (Kotlin, Jetpack Compose, CameraX, Media3) and automated diagnostics for foldable multi-screen devices (SwiftUI, UIKit).
+- ⚡ **Local-First & Zero-Latency Systems:** Engineering reactive, privacy-preserving client applications with local state management, edge caching, and sub-millisecond query execution.
+- 📊 **Applied Data Science:** Pursuing rigorous foundational study in Data Science, GraphBLAS linear algebra algorithms, and distributed systems at **IIT Madras**.
 
 ---
 
-## 🌟 Flagship Projects
+## 🚀 Featured Projects & Systems
 
 <div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/prathamxeth/nexus-ide">NexusIDE</a></h3>
-      <p><i>The Graph-Native Agentic IDE Powered by FalkorDB</i></p>
-      <p>NexusIDE replaces token-wasting lexical search with deterministic in-memory AST call-graphs, multi-hop blast radius (&lt;2ms), and episodic memory guardrails. Built for FalkorDB Graph Hacks 2026 with a strict zero native file-reading kill switch.</p>
+      <p><b>Graph-Native Agentic IDE powered by FalkorDB & FastMCP</b></p>
+      <p>Replaces token-wasting lexical grep with deterministic in-memory AST call-graphs. Computes multi-hop blast radius (&lt;2ms), PageRank centrality, and permanent episodic memory guardrails (⌘N) with a strict zero native file-reading kill-switch.</p>
       <p>
         <img src="https://img.shields.io/badge/FalkorDB-dc2626?style=flat-square&logo=redis&logoColor=white" alt="FalkorDB">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/FastMCP-9333ea?style=flat-square" alt="FastMCP">
+        <img src="https://img.shields.io/badge/Tree--sitter-22c55e?style=flat-square" alt="Tree-sitter">
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/asurxeth/PALZEE-ANDROID">PALZEE Android</a></h3>
-      <p><i>Native Android Ecosystem by Fin Rein Inc.</i></p>
-      <p>Privacy-first micro-vlogging platform for real-time daily moments with close circles. Engineered with Kotlin 2.0+ and Jetpack Compose featuring zero-latency keyframes and zero-algorithm feeds.</p>
+      <h3>📐 <a href="https://github.com/prathamxeth/duoscope">DuoScope</a></h3>
+      <p><b>Diagnostics & 3D Simulation for Foldable iOS Apps</b></p>
+      <p>Automated diagnostics, 3D crease simulation, and continuity layout auto-patcher for foldable and dual-screen form factors (iPhone Duo 5.4" ↔ 7.6"). Eliminates display seam collisions and UIScreen bounds traps.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Compose-4285f4?style=flat-square&logo=android&logoColor=white" alt="Compose">
+        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+        <img src="https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white" alt="UIKit">
+        <img src="https://img.shields.io/badge/3D_Simulation-38BDF8?style=flat-square" alt="3D">
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/prathamxeth/PALZEE-ANDROID">PALZEE Mobile Ecosystem</a></h3>
+      <p><b>Native Android High-Throughput Media Platform</b></p>
+      <p>Privacy-first micro-vlogging platform engineered with Kotlin 2.0+ and Jetpack Compose. Features zero-latency keyframe extraction (CameraX / SurfaceView), hardware-accelerated Media3 playback, and zero-algorithm feeds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin_2.0-7f52ff?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285f4?style=flat-square&logo=android&logoColor=white" alt="Compose">
         <img src="https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white" alt="CameraX">
-        <img src="https://img.shields.io/badge/Media3-000000?style=flat-square&logo=android&logoColor=white" alt="Media3">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 <a href="https://github.com/prathamxeth/spoti.pw">Liquid Glass UI Engine</a></h3>
+      <p><b>Custom iOS Liquid Interface Architecture</b></p>
+      <p>Advanced non-jailbreak interface injection leveraging iOS dynamic rendering layers, backdrop filter blurring, and interactive reactive surfaces. Replaces static view hierarchies with dynamic glass aesthetics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/iOS_Tweak-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+        <img src="https://img.shields.io/badge/Liquid_Glass-06B6D4?style=flat-square" alt="Liquid Glass">
+        <img src="https://img.shields.io/badge/Audio_Pipeline-F59E0B?style=flat-square" alt="Audio">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
     </td>
   </tr>
@@ -75,21 +97,21 @@
 ## 🛠️ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,ts,react,nextjs,tailwind,python,fastapi,redis,docker,postgres,supabase,firebase,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio,ts,react,nextjs,tailwind,python,fastapi,redis,docker,postgres,supabase,firebase,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ```ascii
  ⚡ TECHNICAL ECOSYSTEM MATRIX
- ├── 📱 Native Mobile         : Kotlin 2.0+ · Jetpack Compose · CameraX · Media3 ExoPlayer · Room
- ├── 🌐 Web & Frontend        : Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Monaco Editor
- ├── 🗄️ Backend & Databases   : FastAPI · FalkorDB (GraphBLAS) · PostgreSQL · Supabase · Redis
- ├── 🧠 Graph-RAG & Protocols : Tree-sitter AST · FastMCP (Model Context Protocol) · OpenCypher
- └── 🛠️ Infrastructure        : Docker · GitHub Actions · Cloudflare Edge · AWS ap-south-1 · Render
+ ├── 📱 Native Mobile & Foldable : Kotlin 2.0+ · Jetpack Compose · Swift · SwiftUI · CameraX · Media3
+ ├── 🌐 Web & Full-Stack Studio  : Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Monaco Editor
+ ├── 🧠 Graph-RAG & Protocols    : FalkorDB (GraphBLAS) · FastMCP · Tree-sitter AST · OpenCypher
+ ├── 🗄️ Backend & Databases      : FastAPI · Python 3.12 · PostgreSQL · Supabase · Redis
+ └── 🛠️ Systems & DevOps         : Docker · GitHub Actions · Cloudflare Edge · AWS ap-south-1 · Render
 ```
 
 ---
 
-## 📈 Activity & GitHub Stats
+## 📈 Activity & GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prathamxeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
@@ -116,11 +138,11 @@ prathamxeth@system:~$ neofetch --ecosystem
   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝
 
   NAME        : Prathmesh Upadhyay (@prathamxeth)
-  ROLE        : Founder & CTO @ Fin Rein Inc. (PalZee)
+  ROLE        : Systems & Full-Stack Engineer • Founder & CTO @ Fin Rein
   EDUCATION   : BS in Data Science @ IIT Madras
   LOCATIONS   : Kanpur & Lucknow, UP, India
-  SPECIALTIES : Native Android · Graph-RAG · Zero-Latency UX
-  FLAGSHIPS   : NexusIDE (FalkorDB Hackathon) & PALZEE Android
+  PROJECTS    : NexusIDE · DuoScope · PALZEE Mobile · Liquid Glass
+  CORE STACK  : Kotlin · Swift · TypeScript · Python · FalkorDB
   PHILOSOPHY  : Deterministic Graphs > Probabilistic Guessing
 ```
 
