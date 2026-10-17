@@ -1,6 +1,12 @@
 <div align="center">
 
   <br />
+  <p align="center">
+    <a href="https://github.com/prathamxeth">
+      <img src="https://avatars.githubusercontent.com/u/192805288?v=4" alt="Prathmesh Upadhyay" width="115" height="115" style="border-radius: 50%; border: 3px solid #6366f1; box-shadow: 0 0 25px rgba(99, 102, 241, 0.45);" />
+    </a>
+  </p>
+
   <h1 align="center">
     <b>Prathmesh Upadhyay</b>
   </h1>
@@ -10,34 +16,44 @@
   </p>
 
   <p align="center">
-    <i>Architecting graph-native AI systems, zero-latency native mobile applications, and foldable interface diagnostics.</i>
+    <i>Architecting graph-native AI systems, zero-latency native platforms, and foldable interface diagnostics.</i>
   </p>
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering" alt="Typing SVG" /></a>
+    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
     <a href="https://prathamxeth.github.io/pratham-portfolio/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-prathamxeth.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/prathmesh-upadhyay-11a5a732a/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Prathmesh_Upadhyay-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/0xBlurr" title="Twitter"><img src="https://img.shields.io/badge/X-@0xBlurr-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-    <a href="mailto:pratham@palzee.fun" title="Email"><img src="https://img.shields.io/badge/Email-pratham@palzee.fun-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/prathamxeth" title="GitHub"><img src="https://img.shields.io/badge/GitHub-prathamxeth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 
 </div>
 
 ---
 
-### 💡 Core Engineering Domains
+### ⚡ Live Technical Arsenal Marquee
 
-- 🧠 **Graph-RAG & Agentic Intelligence:** Replacing lexical search and probabilistic embeddings with deterministic AST call-graphs, multi-hop blast radius traversals, and episodic memory via **FalkorDB** and **FastMCP**.
-- 📱 **Native Mobile & Foldable Architectures:** Developing high-frame-rate native applications (Kotlin, Jetpack Compose, CameraX, Media3) and automated diagnostics for foldable multi-screen devices (SwiftUI, UIKit).
-- ⚡ **Local-First & Zero-Latency Systems:** Engineering reactive, privacy-preserving client applications with local state management, edge caching, and sub-millisecond query execution.
-- 📊 **Applied Data Science:** Pursuing rigorous foundational study in Data Science, GraphBLAS linear algebra algorithms, and distributed systems at **IIT Madras**.
+<div align="center">
+  <marquee direction="left" scrollamount="7" behavior="scroll" style="background: rgba(99, 102, 241, 0.05); border: 1px solid rgba(99, 102, 241, 0.2); border-radius: 12px; padding: 12px 16px;">
+    <img src="https://skillicons.dev/icons?i=kotlin,swift,ts,react,nextjs,tailwind,python,fastapi,redis,docker,postgres,supabase,firebase,git,github,vscode,apple,androidstudio,linux" alt="Tech Stack Marquee" />
+  </marquee>
+</div>
 
 ---
 
-## 🚀 Featured Projects & Systems
+### 💡 Core Engineering Pillars
+
+- 🧠 **Graph-Native AI & Graph-RAG:** Eliminating lexical search and probabilistic hallucinations using deterministic in-memory AST property graphs, multi-hop blast radius analysis, and episodic memory via **FalkorDB** and **FastMCP**.
+- 📱 **Native Mobile & Foldable Architectures:** High-frame-rate native engineering (Kotlin, Swift, SwiftUI, Jetpack Compose) and automated continuity auto-patchers for foldable dual-screen devices.
+- ⚡ **Local-First & Reactive Systems:** Zero-latency architectures, offline-capable reactive clients, state-latch keyframe pipelines, and edge computing.
+- 📊 **Applied Data Science & GraphBLAS:** Rigorous foundational study in Data Science, sparse linear algebra graph algorithms, and distributed computing at **IIT Madras**.
+
+---
+
+## 🚀 Featured Systems & Flagship Projects
 
 <div align="center">
 <table>
@@ -67,24 +83,24 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/prathamxeth/PALZEE-ANDROID">PALZEE Mobile Ecosystem</a></h3>
-      <p><b>Native Android High-Throughput Media Platform</b></p>
-      <p>Privacy-first micro-vlogging platform engineered with Kotlin 2.0+ and Jetpack Compose. Features zero-latency keyframe extraction (CameraX / SurfaceView), hardware-accelerated Media3 playback, and zero-algorithm feeds.</p>
+      <h3>🌊 <a href="https://github.com/prathamxeth/spoti.pw">Liquid Glass UI Engine</a></h3>
+      <p><b>Custom iOS Liquid Interface & View Layer Architecture</b></p>
+      <p>Advanced non-jailbreak interface injection leveraging iOS dynamic rendering layers, backdrop filter blurring, and interactive reactive surfaces. Replaces static view hierarchies with dynamic glass aesthetics.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin_2.0-7f52ff?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285f4?style=flat-square&logo=android&logoColor=white" alt="Compose">
-        <img src="https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white" alt="CameraX">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+        <img src="https://img.shields.io/badge/iOS_Systems-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+        <img src="https://img.shields.io/badge/Liquid_Glass-06B6D4?style=flat-square" alt="Liquid Glass">
+        <img src="https://img.shields.io/badge/Audio_Pipeline-F59E0B?style=flat-square" alt="Audio">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌊 <a href="https://github.com/prathamxeth/spoti.pw">Liquid Glass UI Engine</a></h3>
-      <p><b>Custom iOS Liquid Interface Architecture</b></p>
-      <p>Advanced non-jailbreak interface injection leveraging iOS dynamic rendering layers, backdrop filter blurring, and interactive reactive surfaces. Replaces static view hierarchies with dynamic glass aesthetics.</p>
+      <h3>🌐 <a href="https://prathamxeth.github.io/pratham-portfolio/">Personal Developer Studio</a></h3>
+      <p><b>Next.js Liquid Architecture with Asia/Kolkata Telemetry</b></p>
+      <p>Modern interactive portfolio built on Next.js, featuring dynamic dark-mode glassmorphic dock navigation, live timezone clock telemetry, and responsive micro-animations.</p>
       <p>
-        <img src="https://img.shields.io/badge/iOS_Tweak-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
-        <img src="https://img.shields.io/badge/Liquid_Glass-06B6D4?style=flat-square" alt="Liquid Glass">
-        <img src="https://img.shields.io/badge/Audio_Pipeline-F59E0B?style=flat-square" alt="Audio">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
     </td>
@@ -94,11 +110,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio,ts,react,nextjs,tailwind,python,fastapi,redis,docker,postgres,supabase,firebase,git,github,vscode" alt="Tech Stack" />
-</p>
+## 🛠️ Technical Ecosystem Matrix
 
 ```ascii
  ⚡ TECHNICAL ECOSYSTEM MATRIX
@@ -111,7 +123,7 @@
 
 ---
 
-## 📈 Activity & GitHub Metrics
+## 📈 Activity & Contribution Insights
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prathamxeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
@@ -130,18 +142,17 @@
 ```ascii
 prathamxeth@system:~$ neofetch --ecosystem
  
-  ██████╗  █████╗ ██╗     ███████╗███████╗███████╗
-  ██╔══██╗██╔══██╗██║     ╚══███╔╝██╔════╝██╔════╝
-  ██████╔╝███████║██║       ███╔╝ █████╗  █████╗  
-  ██╔═══╝ ██╔══██║██║      ███╔╝  ██╔══╝  ██╔══╝  
-  ██║     ██║  ██║███████╗███████╗███████╗███████╗
-  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝
+   ____  ____     _  _____ _   _    _    __  __ 
+  |  _ \|  _ \   / \|_   _| | | |  / \  |  \/  |
+  | |_) | |_) | / _ \ | | | |_| | / _ \ | |\/| |
+  |  __/|  _ < / ___ \| | |  _  |/ ___ \| |  | |
+  |_|   |_| \_\_/   \_\_| |_| |_/_/   \_\_|  |_|
 
-  NAME        : Prathmesh Upadhyay (@prathamxeth)
-  ROLE        : Systems & Full-Stack Engineer • Founder & CTO @ Fin Rein
+  USER        : Prathmesh Upadhyay (@prathamxeth)
+  ROLE        : Systems Architect & Full-Stack Engineer • Founder @ Fin Rein
   EDUCATION   : BS in Data Science @ IIT Madras
   LOCATIONS   : Kanpur & Lucknow, UP, India
-  PROJECTS    : NexusIDE · DuoScope · PALZEE Mobile · Liquid Glass
+  PROJECTS    : NexusIDE · DuoScope · Spoti.pw · Developer Studio
   CORE STACK  : Kotlin · Swift · TypeScript · Python · FalkorDB
   PHILOSOPHY  : Deterministic Graphs > Probabilistic Guessing
 ```
