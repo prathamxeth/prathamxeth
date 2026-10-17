@@ -12,7 +12,7 @@
   </h1>
 
   <p align="center">
-    <b>Systems & Full-Stack Engineer • Founder & CTO @ Fin Rein Inc. • BS in Data Science @ IIT Madras</b>
+    <b>Systems & Full-Stack Engineer • Founder & CTO @ Palzee & FinRein • BS in Data Science @ IIT Madras</b>
   </p>
 
   <p align="center">
@@ -20,7 +20,7 @@
   </p>
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;Creator+of+NexusIDE+%E2%80%A2+Graph-Native+AI;LiveScript+%E2%80%A2+macOS+Dynamic+Notch+Audio+Engine;PALZEE+Android+%26+iOS+%E2%80%A2+Native+Mobile+Systems;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;Creator+of+NexusIDE+%E2%80%A2+Graph-Native+AI;LiveScript+%E2%80%A2+macOS+Dynamic+Notch+Audio+Engine;PALZEE+Android+%26+iOS+%E2%80%A2+Native+Mobile+Systems;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar" alt="Typing SVG" /></a>
+    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;Creator+of+NexusIDE+%E2%80%A2+Graph-Native+AI;LiveScript+%E2%80%A2+macOS+Dynamic+Notch+Audio+Engine;PALZEE+Android+%26+iOS+%E2%80%A2+Native+Mobile+Systems;Founder+%26+CTO+%40+Palzee+%26+FinRein;IIT+Madras+Data+Science+Scholar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;Creator+of+NexusIDE+%E2%80%A2+Graph-Native+AI;LiveScript+%E2%80%A2+macOS+Dynamic+Notch+Audio+Engine;PALZEE+Android+%26+iOS+%E2%80%A2+Native+Mobile+Systems;Founder+%26+CTO+%40+Palzee+%26+FinRein;IIT+Madras+Data+Science+Scholar" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
@@ -172,7 +172,7 @@ prathamxeth@system:~$ neofetch --ecosystem
   |_|   |_| \_\_/   \_\_| |_| |_/_/   \_\_|  |_|
 
   USER        : Prathmesh Upadhyay (@prathamxeth)
-  ROLE        : Systems & Full-Stack Engineer • Founder @ Fin Rein
+  ROLE        : Systems & Full-Stack Engineer • Founder & CTO @ Palzee & FinRein
   EDUCATION   : BS in Data Science @ IIT Madras
   LOCATIONS   : Kanpur & Lucknow, UP, India
   FLAGSHIPS   : NEXUS-IDE · LIVESCRIPT · PALZEE ANDROID · PALZEE IOS
