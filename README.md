@@ -16,11 +16,11 @@
   </p>
 
   <p align="center">
-    <i>Architecting graph-native AI systems, zero-latency native platforms, and foldable interface diagnostics.</i>
+    <i>Architecting graph-native AI systems, native mobile platforms, and macOS notch intelligence engines.</i>
   </p>
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Systems+%26+Full-Stack+Software+Engineer;Graph-Native+AI+Architect+%E2%80%A2+Creator+of+NexusIDE;Dual-Screen+%26+Foldable+iOS+Tooling+%E2%80%A2+DuoScope;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar;Zero-Latency+%7C+Local-First+Engineering" alt="Typing SVG" /></a>
+    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;Creator+of+NexusIDE+%E2%80%A2+Graph-Native+AI;LiveScript+%E2%80%A2+macOS+Dynamic+Notch+Audio+Engine;PALZEE+Android+%26+iOS+%E2%80%A2+Native+Mobile+Systems;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;Creator+of+NexusIDE+%E2%80%A2+Graph-Native+AI;LiveScript+%E2%80%A2+macOS+Dynamic+Notch+Audio+Engine;PALZEE+Android+%26+iOS+%E2%80%A2+Native+Mobile+Systems;Founder+%26+CTO+%40+Fin+Rein+Inc.;IIT+Madras+Data+Science+Scholar" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
@@ -30,11 +30,18 @@
     <a href="https://github.com/prathamxeth" title="GitHub"><img src="https://img.shields.io/badge/GitHub-prathamxeth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 
+  <p align="center">
+    <a href="#-nexus-ide"><img src="https://img.shields.io/badge/⚡_Featured-NEXUS--IDE-6366f1?style=flat-square" alt="Nexus IDE"></a>
+    <a href="#-livescript"><img src="https://img.shields.io/badge/🎙️_macOS-LIVESCRIPT-f59e0b?style=flat-square" alt="LiveScript"></a>
+    <a href="#-palzee-android"><img src="https://img.shields.io/badge/📱_Android-PALZEE_ANDROID-10b981?style=flat-square" alt="Palzee Android"></a>
+    <a href="#-palzee-ios"><img src="https://img.shields.io/badge/🍏_iOS-PALZEE_IOS-06b6d4?style=flat-square" alt="Palzee iOS"></a>
+  </p>
+
 </div>
 
 ---
 
-### ⚡ Live Technical Arsenal Marquee
+### ⚡ Technical Arsenal Marquee
 
 <div align="center">
   <marquee direction="left" scrollamount="7" behavior="scroll" style="background: rgba(99, 102, 241, 0.05); border: 1px solid rgba(99, 102, 241, 0.2); border-radius: 12px; padding: 12px 16px;">
@@ -44,65 +51,72 @@
 
 ---
 
-### 💡 Core Engineering Pillars
-
-- 🧠 **Graph-Native AI & Graph-RAG:** Eliminating lexical search and probabilistic hallucinations using deterministic in-memory AST property graphs, multi-hop blast radius analysis, and episodic memory via **FalkorDB** and **FastMCP**.
-- 📱 **Native Mobile & Foldable Architectures:** High-frame-rate native engineering (Kotlin, Swift, SwiftUI, Jetpack Compose) and automated continuity auto-patchers for foldable dual-screen devices.
-- ⚡ **Local-First & Reactive Systems:** Zero-latency architectures, offline-capable reactive clients, state-latch keyframe pipelines, and edge computing.
-- 📊 **Applied Data Science & GraphBLAS:** Rigorous foundational study in Data Science, sparse linear algebra graph algorithms, and distributed computing at **IIT Madras**.
-
----
-
-## 🚀 Featured Systems & Flagship Projects
+## 🌟 Flagship Systems & Core Engineering Highlights
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/prathamxeth/nexus-ide">NexusIDE</a></h3>
-      <p><b>Graph-Native Agentic IDE powered by FalkorDB & FastMCP</b></p>
-      <p>Replaces token-wasting lexical grep with deterministic in-memory AST call-graphs. Computes multi-hop blast radius (&lt;2ms), PageRank centrality, and permanent episodic memory guardrails (⌘N) with a strict zero native file-reading kill-switch.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FalkorDB-dc2626?style=flat-square&logo=redis&logoColor=white" alt="FalkorDB">
-        <img src="https://img.shields.io/badge/FastMCP-9333ea?style=flat-square" alt="FastMCP">
-        <img src="https://img.shields.io/badge/Tree--sitter-22c55e?style=flat-square" alt="Tree-sitter">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-      </p>
+      <div align="left">
+        <span style="font-size: 11px; font-weight: bold; color: #818cf8; letter-spacing: 1px;">GRAPH-RAG & AGENTIC AI</span>
+        <h3 id="-nexus-ide" style="margin-top: 4px; margin-bottom: 6px;">⚡ <a href="https://github.com/prathamxeth/nexus-ide">NEXUS-IDE</a></h3>
+        <p><b>Graph-Native Agentic IDE powered by FalkorDB & FastMCP</b></p>
+        <p>Replaces token-heavy lexical grep with deterministic in-memory AST property graphs. Computes multi-hop blast radius (&lt;2ms), PageRank centrality, and permanent episodic memory guardrails (⌘N) with a strict zero native file-reading kill-switch.</p>
+        <p>
+          <img src="https://img.shields.io/badge/FalkorDB-dc2626?style=flat-square&logo=redis&logoColor=white" alt="FalkorDB">
+          <img src="https://img.shields.io/badge/FastMCP-9333ea?style=flat-square" alt="FastMCP">
+          <img src="https://img.shields.io/badge/Tree--sitter-22c55e?style=flat-square" alt="Tree-sitter">
+          <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        </p>
+        <p><a href="https://github.com/prathamxeth/nexus-ide"><b>Explore Repository ➔</b></a></p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>📐 <a href="https://github.com/prathamxeth/duoscope">DuoScope</a></h3>
-      <p><b>Diagnostics & 3D Simulation for Foldable iOS Apps</b></p>
-      <p>Automated diagnostics, 3D crease simulation, and continuity layout auto-patcher for foldable and dual-screen form factors (iPhone Duo 5.4" ↔ 7.6"). Eliminates display seam collisions and UIScreen bounds traps.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
-        <img src="https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white" alt="UIKit">
-        <img src="https://img.shields.io/badge/3D_Simulation-38BDF8?style=flat-square" alt="3D">
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-      </p>
+      <div align="left">
+        <span style="font-size: 11px; font-weight: bold; color: #fbbf24; letter-spacing: 1px;">MACOS AUDIO INTELLIGENCE</span>
+        <h3 id="-livescript" style="margin-top: 4px; margin-bottom: 6px;">🎙️ <a href="https://github.com/prathamxeth/LiveScript">LIVESCRIPT</a></h3>
+        <p><b>Dynamic Notch Audio Transcription & Neural Translation for macOS</b></p>
+        <p>High-performance utility transforming the MacBook notch into an interactive Dynamic Island audio engine. Features live waveform visualizers, real-time speech transcription, zero-latency keyframes, and hands-free voice shortcuts.</p>
+        <p>
+          <img src="https://img.shields.io/badge/macOS_14+-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+          <img src="https://img.shields.io/badge/Swift_6.0-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+          <img src="https://img.shields.io/badge/Apple_Silicon-007ACC?style=flat-square" alt="Apple Silicon">
+          <img src="https://img.shields.io/badge/Audio_Pipeline-F59E0B?style=flat-square" alt="Audio">
+        </p>
+        <p><a href="https://github.com/prathamxeth/LiveScript"><b>Explore Repository ➔</b></a></p>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌊 <a href="https://github.com/prathamxeth/spoti.pw">Liquid Glass UI Engine</a></h3>
-      <p><b>Custom iOS Liquid Interface & View Layer Architecture</b></p>
-      <p>Advanced non-jailbreak interface injection leveraging iOS dynamic rendering layers, backdrop filter blurring, and interactive reactive surfaces. Replaces static view hierarchies with dynamic glass aesthetics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/iOS_Systems-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
-        <img src="https://img.shields.io/badge/Liquid_Glass-06B6D4?style=flat-square" alt="Liquid Glass">
-        <img src="https://img.shields.io/badge/Audio_Pipeline-F59E0B?style=flat-square" alt="Audio">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      </p>
+      <div align="left">
+        <span style="font-size: 11px; font-weight: bold; color: #34d399; letter-spacing: 1px;">NATIVE ANDROID PLATFORM</span>
+        <h3 id="-palzee-android" style="margin-top: 4px; margin-bottom: 6px;">📱 <a href="https://github.com/prathamxeth/PALZEE-ANDROID">PALZEE ANDROID</a></h3>
+        <p><b>High-Throughput Privacy-First Mobile Media Platform</b></p>
+        <p>Engineered with Kotlin 2.0+ and modern Jetpack Compose. Features zero-latency keyframe extraction (CameraX / SurfaceView), hardware-accelerated Media3 playback pipelines, offline state caches, and zero-algorithm intimacy feeds.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Kotlin_2.0-7f52ff?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+          <img src="https://img.shields.io/badge/Jetpack_Compose-4285f4?style=flat-square&logo=android&logoColor=white" alt="Compose">
+          <img src="https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white" alt="CameraX">
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+        </p>
+        <p><a href="https://github.com/prathamxeth/PALZEE-ANDROID"><b>Explore Repository ➔</b></a></p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://prathamxeth.github.io/pratham-portfolio/">Personal Developer Studio</a></h3>
-      <p><b>Next.js Liquid Architecture with Asia/Kolkata Telemetry</b></p>
-      <p>Modern interactive portfolio built on Next.js, featuring dynamic dark-mode glassmorphic dock navigation, live timezone clock telemetry, and responsive micro-animations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      </p>
+      <div align="left">
+        <span style="font-size: 11px; font-weight: bold; color: #22d3ee; letter-spacing: 1px;">NATIVE IOS SYSTEM</span>
+        <h3 id="-palzee-ios" style="margin-top: 4px; margin-bottom: 6px;">🍏 <a href="https://github.com/prathamxeth/palzee-ios">PALZEE IOS</a></h3>
+        <p><b>Native iOS Client with Liquid Interface Architecture</b></p>
+        <p>Companion iOS platform built on dynamic rendering layers, backdrop filter blurring, and fluid touch interactions. Features local-first offline state-latch synchronization, low-overhead network primitives, and responsive UI surfaces.</p>
+        <p>
+          <img src="https://img.shields.io/badge/iOS_17+-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+          <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+          <img src="https://img.shields.io/badge/Liquid_UI-06B6D4?style=flat-square" alt="Liquid Glass">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        </p>
+        <p><a href="https://github.com/prathamxeth/palzee-ios"><b>Explore Repository ➔</b></a></p>
+      </div>
     </td>
   </tr>
 </table>
@@ -110,14 +124,23 @@
 
 ---
 
+### 💡 Core Engineering Pillars
+
+- 🧠 **Graph-Native AI & Graph-RAG:** Eliminating lexical search and vector hallucinations with deterministic in-memory AST property graphs, multi-hop blast radius analysis, and episodic memory via **FalkorDB** and **FastMCP**.
+- 📱 **Native Mobile Architecture (Android & iOS):** High-throughput, battery-efficient mobile systems using **Kotlin 2.0+**, **Jetpack Compose**, **Swift 6.0**, **CameraX**, and hardware-accelerated **Media3**.
+- 🎙️ **macOS Notch & Audio Intelligence:** Local, unmetered neural audio transcription, dynamic waveform keyframes, and menu-bar notch overlays.
+- 📊 **Applied Data Science & GraphBLAS:** Rigorous foundational study in Data Science, sparse linear algebra graph algorithms, and distributed systems at **IIT Madras**.
+
+---
+
 ## 🛠️ Technical Ecosystem Matrix
 
 ```ascii
  ⚡ TECHNICAL ECOSYSTEM MATRIX
- ├── 📱 Native Mobile & Foldable : Kotlin 2.0+ · Jetpack Compose · Swift · SwiftUI · CameraX · Media3
+ ├── 📱 Native Mobile & macOS    : Kotlin 2.0+ · Jetpack Compose · Swift 6.0 · SwiftUI · CameraX · Media3
  ├── 🌐 Web & Full-Stack Studio  : Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Monaco Editor
  ├── 🧠 Graph-RAG & Protocols    : FalkorDB (GraphBLAS) · FastMCP · Tree-sitter AST · OpenCypher
- ├── 🗄️ Backend & Databases      : FastAPI · Python 3.12 · PostgreSQL · Supabase · Redis
+ ├── 🗄️ Backend & Cloud          : FastAPI · Python 3.12 · PostgreSQL · Supabase · Redis
  └── 🛠️ Systems & DevOps         : Docker · GitHub Actions · Cloudflare Edge · AWS ap-south-1 · Render
 ```
 
@@ -149,10 +172,10 @@ prathamxeth@system:~$ neofetch --ecosystem
   |_|   |_| \_\_/   \_\_| |_| |_/_/   \_\_|  |_|
 
   USER        : Prathmesh Upadhyay (@prathamxeth)
-  ROLE        : Systems Architect & Full-Stack Engineer • Founder @ Fin Rein
+  ROLE        : Systems & Full-Stack Engineer • Founder @ Fin Rein
   EDUCATION   : BS in Data Science @ IIT Madras
   LOCATIONS   : Kanpur & Lucknow, UP, India
-  PROJECTS    : NexusIDE · DuoScope · Spoti.pw · Developer Studio
+  FLAGSHIPS   : NEXUS-IDE · LIVESCRIPT · PALZEE ANDROID · PALZEE IOS
   CORE STACK  : Kotlin · Swift · TypeScript · Python · FalkorDB
   PHILOSOPHY  : Deterministic Graphs > Probabilistic Guessing
 ```
