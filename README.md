@@ -55,25 +55,25 @@ Portfolio :  https://prathamxeth.github.io/pratham-portfolio/
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/prathamxeth/nexus-ide">NexusIDE</a></h3>
+      <p><i>The Graph-Native Agentic IDE Powered by FalkorDB</i></p>
+      <p>NexusIDE replaces token-wasting lexical search and vector embeddings with deterministic in-memory AST call-graphs, multi-hop blast radius, and episodic memory guardrails. Built for FalkorDB Graph Hacks 2026 with zero native file reading.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FalkorDB-dc2626?style=flat-square&logo=redis&logoColor=white" alt="FalkorDB">
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/FastMCP-9333ea?style=flat-square" alt="FastMCP">
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/asurxeth/PALZEE-ANDROID">PALZEE Android</a></h3>
-      <p><i>Native Android Application</i></p>
+      <p><i>Native Android Application by Fin Rein Inc.</i></p>
       <p>PALZEE Android is a native, privacy-first micro-vlogging app for sharing real-time daily moments with close friends. Built with Kotlin and Jetpack Compose featuring zero-latency keyframes and zero-algorithm feeds.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
         <img src="https://img.shields.io/badge/Compose-4285f4?style=flat-square&logo=android&logoColor=white" alt="Compose">
         <img src="https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white" alt="CameraX">
         <img src="https://img.shields.io/badge/Media3-000000?style=flat-square&logo=android&logoColor=white" alt="Media3">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/asurxeth/PALZEE-SITE">PALZEE Site</a></h3>
-      <p><i>Official Web Portal & Policies</i></p>
-      <p>PALZEE Site is the official web portal for PALZEE by Fin Rein Inc., offering instant app download links, feedback tools, and legal compliance policies including Privacy and Child Safety Standards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
       </p>
     </td>
   </tr>
@@ -126,6 +126,19 @@ prathamxeth@system:~$ neofetch --ecosystem
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 📊 Real-Time Activity & Code Metrics
+<p align="center">
+  <i>Dynamically generated via GitHub Actions & <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i>
+</p>
+
+<div align="center">
+  <img src="metrics.base.svg" alt="GitHub Metrics" width="100%" />
+  <br /><br />
+  <img src="metrics.isocalendar.svg" alt="Isometric Contributions" width="100%" />
 </div>
 
 ---
