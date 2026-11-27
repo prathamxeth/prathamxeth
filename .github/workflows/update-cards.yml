@@ -1,0 +1,53 @@
+name: Update Profile SVG Cards
+
+on:
+  schedule:
+    - cron: "30 1 * * *" # 07:00 IST daily
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/**"
+      - "fonts/**"
+      - ".github/workflows/update-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch GitHub contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/fetch_contributions.py
+
+      - name: Render animated SVG cards
+        env:
+          STATIC: "0"
+        run: python scripts/render_cards.py
+
+      - name: Commit updated data and SVG cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json cards/*.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(cards): refresh daily profile SVG cards"
+            git push
+          else
+            echo "No changes to commit."
+          fi

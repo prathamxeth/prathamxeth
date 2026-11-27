@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 226" width="900" height="226" role="img" aria-label="Prathmesh Upadhyay Hero Card">
+  <style>
+    
+    .font-display { font-family: 'BrandDisplay', 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .font-mono { font-family: 'BrandMono', 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace; }
+
+    @keyframes cardEnter {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes pulseDot {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0.35; }
+    }
+    @keyframes scanRow {
+      from { opacity: 0; transform: translateX(-6px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+
+    .card-enter {
+      opacity: 0;
+      animation: cardEnter 0.55s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .pulse {
+      animation: pulseDot 2.2s ease-in-out infinite;
+    }
+    
+    .ascii-row {
+      opacity: 0;
+      animation: scanRow 0.35s ease-out forwards;
+    }
+    
+    
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation: none !important;
+        transition: none !important;
+        opacity: 1 !important;
+        transform: none !important;
+      }
+    }
+  </style>
+  <g class="card-enter" style="animation-delay:0.00s">
+    <rect x="0.5" y="0.5" width="899" height="225" rx="14" fill="#0E121B" stroke="#22293A" />
+
+    <circle cx="32" cy="34" r="4.5" fill="#6366F1" class="pulse" />
+    <text x="45" y="38" class="font-mono" fill="#949DB2" font-size="11" letter-spacing="0.8">
+      SYSTEMS &amp; FULL-STACK ENGINEER · CTO @ PALZEE &amp; FINREIN · IIT MADRAS
+    </text>
+
+    <text x="30" y="90" class="font-display" fill="#F4F5F8" font-size="38" font-weight="700" letter-spacing="-0.8">
+      Prathmesh Upadhyay
+    </text>
+
+    <text x="30" y="122" class="font-mono" fill="#949DB2" font-size="12.5">
+      Architecting graph-native AI systems, native mobile platforms &amp; macOS notch engines.
+    </text>
+
+    <g transform="translate(30, 148)">
+      <rect x="0" y="0" width="128" height="26" rx="6" fill="#151A26" stroke="#323C54" />
+      <text x="12" y="17" class="font-mono" fill="#818CF8" font-size="11">FalkorDB · MCP</text>
+
+      <rect x="136" y="0" width="136" height="26" rx="6" fill="#151A26" stroke="#323C54" />
+      <text x="148" y="17" class="font-mono" fill="#10B981" font-size="11">Kotlin · Compose</text>
+
+      <rect x="280" y="0" width="126" height="26" rx="6" fill="#151A26" stroke="#323C54" />
+      <text x="292" y="17" class="font-mono" fill="#F59E0B" font-size="11">Swift · macOS</text>
+
+      <rect x="414" y="0" width="126" height="26" rx="6" fill="#151A26" stroke="#323C54" />
+      <text x="426" y="17" class="font-mono" fill="#06B6D4" font-size="11">Next.js · TS</text>
+    </g>
+
+    <rect x="574" y="26" width="298" height="174" rx="10" fill="#090B10" stroke="#323C54" />
+    <text x="588" y="45" class="font-mono" fill="#5E677D" font-size="10">prathamxeth@system:~$ neofetch</text>
+    <text x="588" y="74" class="font-mono ascii-row" style="animation-delay:0.14s" fill="#818CF8" font-size="9.6" xml:space="preserve"> ____  ____     _  _____ _   _    _    __  __ </text><text x="588" y="90" class="font-mono ascii-row" style="animation-delay:0.20s" fill="#818CF8" font-size="9.6" xml:space="preserve">|  _ \|  _ \   / \|_   _| | | |  / \  |  \/  |</text><text x="588" y="106" class="font-mono ascii-row" style="animation-delay:0.25s" fill="#818CF8" font-size="9.6" xml:space="preserve">| |_) | |_) | / _ \ | | | |_| | / _ \ | |\/| |</text><text x="588" y="122" class="font-mono ascii-row" style="animation-delay:0.31s" fill="#818CF8" font-size="9.6" xml:space="preserve">|  __/|  _ &lt; / ___ \| | |  _  |/ ___ \| |  | |</text><text x="588" y="138" class="font-mono ascii-row" style="animation-delay:0.36s" fill="#818CF8" font-size="9.6" xml:space="preserve">|_|   |_| \_\_/   \_\_| |_| |_/_/   \_\_|  |_|</text>
+    <text x="588" y="172" class="font-mono" fill="#949DB2" font-size="9.5">Deterministic Graphs &gt; Probabilistic Guessing</text>
+    <text x="588" y="187" class="font-mono" fill="#6366F1" font-size="9.5">Kanpur &amp; Lucknow, IN · UTC+5:30</text>
+  </g>
+</svg>
